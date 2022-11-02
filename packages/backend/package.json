@@ -50,5 +50,9 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "description": "This package is an EXAMPLE of a Backstage backend.",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
